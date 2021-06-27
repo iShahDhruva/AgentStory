@@ -1,3 +1,4 @@
 A secret service agent for the queen has been informed about a plot to kill the queen.
 He's been given information about the people behind the plot.
 He's been tasked with killing the masterminds behind the plot and stopping it.
+He's been given basic information regarding the plan.
